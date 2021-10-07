@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning whatever is useful 🤣
 - 🥅 2022 Goals: To land my first part-time Back-End Development Job
-// - ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 ### Connect with me:
 
