@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=gabrielc.tech&style=for-the-badge&url=https%3A%2F%2Fhttp://www.gabrielc.tech)](http://gabrielc.tech)
 
 
-## I'm a Husband, Father, Developer Student, and Support Analyst!!
+## I'm a Husband, Father, Back-End Software Development Student, and Support Analyst!!
 
 - 🌱 I’m currently learning whatever is useful 🤣
 - 🥅 2022 Goals: To land my first part-time Back-End Development Job
