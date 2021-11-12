@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Carneiro Jr - [website] 👋
 
-[![Website](https://img.shields.io/website?label=gabrielc.tech&style=for-the-badge&url=http://www.gabrielc.tech)](http://gabrielc.tech)
+[![Website](https://img.shields.io/website?label=gabrielc.tech&style=for-the-badge&url=http%3A%2F%2Fgabrielc.tech)](http://gabrielc.tech)
 
 
 ## I'm a Husband, Father, Back-End Software Development Student, and Support Analyst!!
