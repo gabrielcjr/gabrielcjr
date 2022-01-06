@@ -44,6 +44,6 @@
 
 </details>
 
-[website]: http://gabrielc.tech
+[website]: http://gabrielc.site
 [telegram]: https://msng.link/o/?@gabrielcjr=tg
 [linkedin]: https://www.linkedin.com/in/gabriel-carneiro-jr/
