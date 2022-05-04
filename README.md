@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Back-End Software Development Student, and Support Analyst!!
 
-- 🌱 I’m currently learning whatever is useful 🤣
+- 🌱 I’m currently learning Django and React
 
 
 
