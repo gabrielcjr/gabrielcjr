@@ -1,11 +1,11 @@
 ### Hi there, I'm Gabriel Carneiro Jr - [website] 👋
 
-[![Website](https://img.shields.io/website?label=gabrielc.site&style=for-the-badge&url=http%3A%2F%2Fgabrielc.site)](http://gabrielc.site)
+ <!--- [![Website](https://img.shields.io/website?label=gabrielc.site&style=for-the-badge&url=http%3A%2F%2Fgabrielc.site)](http://gabrielc.site) ---> 
 
 
 ## I'm a Husband, Father, Software Development Student, and Support Analyst!!
 
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently learning Golang
 
 
 
