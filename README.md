@@ -1,4 +1,6 @@
-### Hi there, I'm Gabriel Carneiro Jr - [website] 👋
+### Hi there, I'm Gabriel Carneiro Jr
+
+<!--- - [website] 👋 ---> 
 
  <!--- [![Website](https://img.shields.io/website?label=gabrielc.site&style=for-the-badge&url=http%3A%2F%2Fgabrielc.site)](http://gabrielc.site) ---> 
 
@@ -11,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="http://gabrielc.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--- [<img align="left" alt="http://gabrielc.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] ---> 
 [<img align="left" alt="gabrielc.site | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
@@ -44,6 +46,6 @@
 
 </details>
 
-[website]: http://gabrielc.site
+<!--- [website]: http://gabrielc.site ---> 
 [telegram]: https://msng.link/o/?@gabrielcjr=tg
 [linkedin]: https://www.linkedin.com/in/gabriel-carneiro-jr/
